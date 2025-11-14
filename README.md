@@ -77,10 +77,11 @@ Do you want me to add that?
 ## OUTPUTS
 
 **SIGNUP PAGE**
-![SIGNUP PAGE](output/signup.png)
+![SIGNUP PAGE](outputs/signup.png)
 
 **LOGIN PAGE**
-![LOGIN PAGE](output/login.png)
+![LOGIN PAGE](outputslogin.png)
 
 **HOME PAGE**
-![HOME PAGE](output/home.png)
+![HOME PAGE](outputs/home.png)
+
