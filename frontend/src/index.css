@@ -1,0 +1,111 @@
+/* ===== Global Styles ===== */
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background-color: #f4f7fb;
+  color: #333;
+}
+
+a {
+  color: #1f3b73;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ===== Center Layout ===== */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* ===== Card Styling ===== */
+.card {
+  background-color: #ffffff;
+  padding: 40px 50px;
+  border-radius: 15px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+  text-align: center;
+  width: 360px;
+}
+
+.card h2 {
+  margin-bottom: 25px;
+  color: #1f3b73;
+  letter-spacing: 0.5px;
+}
+
+/* ===== Input Fields ===== */
+input {
+  width: 90%;
+  padding: 12px;
+  margin-bottom: 18px;
+  border: 1px solid #d0d0d0;
+  border-radius: 8px;
+  font-size: 15px;
+  outline: none;
+  transition: border-color 0.2s ease-in-out;
+}
+
+input:focus {
+  border-color: #1f3b73;
+}
+
+/* ===== Buttons ===== */
+button {
+  width: 95%;
+  padding: 12px;
+  background-color: #1f3b73;
+  color: white;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background-color: #26458a;
+  transform: scale(1.02);
+}
+
+/* ===== Text Links ===== */
+.card p {
+  margin-top: 18px;
+  font-size: 14px;
+}
+
+/* ===== Home Page ===== */
+.home {
+  text-align: center;
+  margin-top: 120px;
+}
+
+.home h1 {
+  color: #1f3b73;
+  font-size: 2rem;
+  margin-bottom: 15px;
+}
+
+.logout-btn {
+  padding: 8px 16px;
+  background-color: #f5c518;
+  border: none;
+  border-radius: 6px;
+  font-weight: 600;
+  color: #1f3b73;
+  cursor: pointer;
+  margin-top: 20px;
+  transition: all 0.3s ease;
+  width: fit-content;
+}
+
+.logout-btn:hover {
+  background-color: #eabf12;
+  transform: scale(1.05);
+}
