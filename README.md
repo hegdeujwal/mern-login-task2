@@ -80,8 +80,9 @@ Do you want me to add that?
 ![SIGNUP PAGE](outputs/signup.png)
 
 **LOGIN PAGE**
-![LOGIN PAGE](outputslogin.png)
+![LOGIN PAGE](outputs/login.png)
 
 **HOME PAGE**
 ![HOME PAGE](outputs/home.png)
+
 
